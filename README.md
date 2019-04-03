@@ -8,8 +8,6 @@
 [![Join the chat at https://gitter.im/poanetwork/ico-wizard](https://badges.gitter.im/poanetwork/ico-wizard.svg)](https://gitter.im/poanetwork/ico-wizard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Coverage Status](https://coveralls.io/repos/github/poanetwork/token-wizard/badge.svg?branch=master)](https://coveralls.io/github/poanetwork/token-wizard?branch=master)
 
-### **_Attention_!**
-
 _A Quote_
 
 > ICO tools should be available for non-coders for free. Raising funds from a crowd is our basic human right.
