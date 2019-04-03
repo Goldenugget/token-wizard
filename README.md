@@ -1,5 +1,3 @@
-![Token Wizard DApp](/docs/github_head.png)
-
 # Token Wizard DApp
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/hyperium/hyper/master/LICENSE)
