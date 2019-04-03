@@ -10,8 +10,6 @@
 
 ### **_Attention_!**
 
-#### This repository is [no longer supported by the POA Network](https://medium.com/poa-network/farewell-token-wizard-2-0-time-to-reprioritize-8cbd7319a97b). Use at your own discretion. 
-
 _A Quote_
 
 > ICO tools should be available for non-coders for free. Raising funds from a crowd is our basic human right.
