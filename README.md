@@ -62,4 +62,4 @@ Token Wizard is constantly under active development. The “Beta” labelling im
 
 - loss of tokens/funds from incorrect configuration;
 - unexpected delays;
-- unexpected visual artifacts.
+- unexpected visual artifacts
